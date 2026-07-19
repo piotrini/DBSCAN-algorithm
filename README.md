@@ -1,2 +1,1 @@
-# 3rd-semester
-
+# Simple DBSCAN algorithm implementation.
